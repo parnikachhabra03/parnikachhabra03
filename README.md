@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Parnika 👋
 
-<!--
-**parnikachhabra03/parnikachhabra03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science learner from the West Midlands, working towards a career in **software engineering, data science and AI**.
 
-Here are some ideas to get you started:
+## What I'm doing now
+- 🚀 Running **[Ryka Studios](https://rykastudios.co.uk)**, where I build websites and reels for businesses
+- 🎓 Completed a Computer Science foundation year (120 credits) at the University of Leicester
+- 💻 Learning through Code First Girls and Goldman Sachs job simulations on Forage
+- 🔍 Looking for a **degree apprenticeship** in software engineering, data or AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Children's maths game**: a GUI game with achievements, unlockable modes and an accessible text-based version
+- More coming soon!
+
+## Get in touch
+📧 parnikachhabra03@gmail.com
